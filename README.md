@@ -35,7 +35,7 @@ Make Sure Above PHP 7.3
 How To Work the Project :
 Step 1 : Clone the Project Eg : git clone https://github.com/hashimpk07/pixbitSolutions.git
 
-Step 2: added .env file stpe 3: Database settings in .env file eg : DB_CONNECTION=mysql DB_HOST=127.0.0.1 DB_PORT=3306 DB_DATABASE=qubicle DB_USERNAME=root DB_PASSWORD=123456
+Step 2: added .env file stpe 3: Database settings in .env file eg : DB_CONNECTION=mysql DB_HOST=127.0.0.1 DB_PORT=3306 DB_DATABASE=pixbit DB_USERNAME=root DB_PASSWORD=123456
 
 Stpe 4: run command or composer update eg : composer update Step 5: Make Sure vendor file added Step 6: run commnad or migrate file eg : php artisan migrate step 7: Make sure added table in DB Step 8 : run command php artisan serve step 9 : Get the Url , This Url open browser Step 10 : Creae Registration , then login
 
